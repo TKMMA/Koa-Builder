@@ -10,7 +10,7 @@ If you enable **GitHub Pages** for this repo (Settings → Pages → Deploy from
 branch → `main` / root), it will be served at:
 
 ```
-https://<your-username>.github.io/<repo-name>/
+https://tkmma.github.io/Koa-Builder/
 ```
 
 No build step is required — `index.html` is the entry point and runs as-is.
